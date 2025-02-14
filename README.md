@@ -7,34 +7,45 @@ Welcome to the AF3005 - Programming for Finance repository! This repository show
 This project is designed to tackle real-world financial computations by integrating interactive widgets that enhance usability. The implementation focuses on loan approvals, investment risk analysis, loan repayment tracking, stock price monitoring, and currency exchange tracking, providing users with essential financial insights.
 
 📌 Features & Functionalities
+
 🏦 1. Loan Eligibility System
 
 ✔️ Determines loan approval based on the applicant’s employment status, income level, and credit score.
+
 ✔️ Implements a dynamic decision-making process to classify loan eligibility and interest rates.
+
 ✔️ Interactive widgets allow users to input details and receive instant feedback.
 
 📈 2. Investment Risk Assessment
 
 ✔️ Evaluates a portfolio’s risk level by analyzing stock returns.
+
 ✔️ Classifies risk into High Risk, Medium Risk, or Low Risk based on stock performance.
+
 ✔️ Accepts user-input stock returns and generates instant risk assessment.
 
 💳 3. Loan Repayment Tracker
 
 ✔️ Tracks remaining loan balance as monthly payments are made.
+
 ✔️ Uses a loop structure to deduct payments and terminates when fully paid.
+
 ✔️ Provides real-time updates on loan status using interactive elements.
 
 📉 4. Stock Price Monitoring
 
 ✔️ Continuously monitors stock prices to determine optimal selling points.
+
 ✔️ Skips missing values and halts execution upon reaching the target price.
+
 ✔️ Implements the continue and break statements effectively.
 
 💹 5. Currency Exchange Tracker
 
 ✔️ Tracks foreign exchange rates dynamically, stopping when the target exchange rate is achieved.
+
 ✔️ Uses interactive widgets for inputting initial and target exchange rates.
+
 ✔️ Ensures a structured and efficient looping mechanism for accuracy.
 
 📂 Repository Structure
@@ -83,6 +94,7 @@ jupyter notebook
 🎯 Project Submission Details
 
 📌 This repository is submitted as part of the AF3005 - Programming for Finance course.
+
 📌 The implementation adheres to the highest standards of accuracy, efficiency, and readability.
 
 🔗 GitHub Repository Link: (https://github.com/taliamehmood1/AF3005_ProgrammingForFinance/blob/d827ed7e1b1e16da71c6cd5db8463fc73f18a79b/i227457_Talia_Mehmood_AF3005%E2%80%93Assignment_1_Smart_Financial_Management_System.ipynb)
