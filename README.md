@@ -1,4 +1,5 @@
 🌟 README File for AF3005 - Programming for Finance 🌟
+
 📊 AF3005 - Programming for Finance
 Welcome to the AF3005 - Programming for Finance repository! This repository showcases a comprehensive implementation of finance-related programming tasks using Python and ipywidgets, enabling interactive and dynamic user experiences.
 
@@ -69,6 +70,6 @@ jupyter notebook
 📌 This repository is submitted as part of the AF3005 - Programming for Finance course.
 📌 The implementation adheres to the highest standards of accuracy, efficiency, and readability.
 
-🔗 GitHub Repository Link: [Insert your repository link here]
+🔗 GitHub Repository Link: (https://github.com/taliamehmood1/AF3005_ProgrammingForFinance/blob/d827ed7e1b1e16da71c6cd5db8463fc73f18a79b/i227457_Talia_Mehmood_AF3005%E2%80%93Assignment_1_Smart_Financial_Management_System.ipynb)
 
 💡 This project is a testament to the power of Python in finance, integrating interactivity and logic seamlessly! 🚀
